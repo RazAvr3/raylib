@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 - [What is raylib?](#what-is-raylib)
-- [What can I do with raylib?](#what-can-i-do-with-raylib)  
+- [What can I do with raylib?](#what-can-i-do-with-raylib)
 - [Which kinds of games can I make with raylib?](#which-kinds-of-games-can-i-make-with-raylib)
 - [Can I create non-game applications with raylib?](#can-i-create-non-game-applications-with-raylib)
 - [How can I learn to use raylib? Is there some official documentation or tutorials?](#how-can-i-learn-to-use-raylib-is-there-some-official-documentation-or-tutorials)
